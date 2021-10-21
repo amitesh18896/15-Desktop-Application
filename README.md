@@ -4,7 +4,7 @@
 A desktop application is a software program that can be run on a standalone computer to perform a specific task by an end-user
 
 
-A collection of 15 small — *minute* — desktop applications written in Python
+A collection of 15 — desktop applications written in Python
 using the PyQt framework. These apps are intended as examples from
 which you can poke, hack and prod your way to writing your own tools.
 
